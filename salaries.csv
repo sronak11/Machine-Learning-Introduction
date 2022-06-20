@@ -1,0 +1,17 @@
+company,job,degree,Salary_more_than_100k
+Google,Sales,Bachelors,0
+Google,Sales,Masters,0
+Google,Manager,Bachelors,1
+Google,Manager,Masters,1
+Google,Programmer,Bachelors,0
+Google,Programmer,Masters,1
+ABC Pharma,Sales,Masters,0
+ABC Pharma,Programmer,Bachelors,0
+ABC Pharma,Manager,Bachelors,0
+ABC Pharma,Manager,Masters,1
+Facebook,Sales,Bachelors,1
+Facebook,Sales,Masters,1
+Facebook,Manager,Bachelors,1
+Facebook,Manager,Masters,1
+Facebook,Programmer,Bachelors,1
+Facebook,Programmer,Masters,1
